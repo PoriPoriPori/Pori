@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-28T02:54:25.316Z" agent="5.0 (Windows)" etag="q73IDwLSatpXj8LuccR7" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-28T02:55:13.817Z" agent="5.0 (Windows)" etag="sTS3vz3tBz6TXtrPzhKn" version="14.8.1" type="github">
   <diagram id="0W6Qc_67fqcdbap8SxTc" name="Page-1">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="720" y="360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cX6OeLYtHGOCh2aDYkUL-2" value="" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="280" width="60" height="80" as="geometry" />
+          <mxGeometry x="360" y="240" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cX6OeLYtHGOCh2aDYkUL-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry width="680" height="200" as="geometry" />
@@ -107,6 +107,15 @@
         </mxCell>
         <mxCell id="cX6OeLYtHGOCh2aDYkUL-22" value="&lt;font style=&quot;font-size: 30px&quot; face=&quot;Times New Roman&quot;&gt;y&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry y="320" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cX6OeLYtHGOCh2aDYkUL-24" value="" style="endArrow=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cX6OeLYtHGOCh2aDYkUL-25" target="cX6OeLYtHGOCh2aDYkUL-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="260" as="sourcePoint" />
+            <mxPoint x="460" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cX6OeLYtHGOCh2aDYkUL-25" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.inverter_2;sketch=0;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
